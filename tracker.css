@@ -1,0 +1,26 @@
+body {
+    background-color: #FDF1E6;
+    font-family: Book Antiqua;
+}
+
+h1 {
+    color: #695054;
+    font-size: 30px;
+    font-weight: light;
+    text-align: center;
+    padding-top: 2px;
+    border: 1px;
+    width:350px;
+    height:50px;
+    background: #D0D6E3;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#title {
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: drop-shadow(30px 10px 4px #96a0b6);
+    margin-bottom: 30px;
+}
